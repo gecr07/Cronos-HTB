@@ -12,7 +12,11 @@
 
 ## FUZZING 
 
-![image](https://github.com/gecr07/Cronos-HTB/assets/63270579/37738cbc-df81-4508-be5e-046f0a600ece)
+![image](https://github.com/gecr07/Cronos-HTB/assets/63270579/37738cbc-df81-4508-be5e-046f0a600ece
+
+
+![image](https://github.com/gecr07/Cronos-HTB/assets/63270579/b4d54fa3-7c81-49c4-a11a-5ece5f81d255)
+
 
 
 
