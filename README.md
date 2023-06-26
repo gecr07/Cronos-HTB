@@ -25,7 +25,11 @@
 ![image](https://github.com/gecr07/Cronos-HTB/assets/63270579/753b29ac-d7f5-4cc4-86a9-0cf1cf9433dd)
 
 
+## WGET bajar un archivo a una carpeta
 
+```
+wget -P /tmp https://www.ejemplo.com/archivo.zip
+```
 
 
 
